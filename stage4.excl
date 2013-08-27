@@ -1,0 +1,8 @@
+.bash_history
+mnt/*
+tmp/*
+proc/*
+sys/*
+etc/ssh/ssh_host_*
+usr/src/*
+usr/portage/*

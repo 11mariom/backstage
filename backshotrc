@@ -1,0 +1,17 @@
+# directory to backup
+SRCDIR=""
+
+# destination directory of backup
+DESTDIR=""
+
+# remote host
+RHOST=""
+
+# directories to exclude
+EXCLUDE="/dev /media /mnt /tmp /usr/src /usr/portage /var/tmp /proc /sys"
+
+# if you need to specify custom options
+RDIFFOPT=""
+
+# how long backup should be stored?
+MAXTIME=""
